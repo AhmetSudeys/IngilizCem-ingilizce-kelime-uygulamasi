@@ -1,0 +1,3 @@
+# IngilizCem-ingilizce-kelime-uygulamasi
+
+halihazırda devam edilen ve git sistemi ile entegre yürütülen projedir. Tamamlanınca detaylar eklenecektir...
